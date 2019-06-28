@@ -10,7 +10,7 @@ Comparison of quantum-enhanced SVM vs classical SVM using the well-known Iris da
 
 Name | Github | Email
 -----|--------|-------
-Corentin Pouget | [@](https://github.com/) |
+Corentin Pouget | [@Dwinlight](https://github.com/Dwinlight) | corentinpouget15@gmail.com
 Javier G. Montoya S. | [@jgmontoya](https://github.com/jgmontoya) | jgmontoya@uc.cl
 Frank Fu | [@](https://github.com/kamilondrej) |
  | [@](https://github.com/) |
