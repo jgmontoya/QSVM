@@ -14,4 +14,4 @@ Corentin Pouget | [@Dwinlight](https://github.com/Dwinlight) | corentinpouget15@
 Javier G. Montoya S. | [@jgmontoya](https://github.com/jgmontoya) | jgmontoya@uc.cl
 Frank Fu | [@ThatFrankGuy](https://github.com/ThatFrankGuy) | lanke_fu@outlook.com
 . | [@Chokomancarr](https://github.com/Chokomancarr) | puakai2010@gmail.com
-. | [@pandaman64](https://github.com/pandaman64) | pandaman64@gmail.com
+Yulu Pan | [@pandaman64](https://github.com/pandaman64) | pandaman64@gmail.com
