@@ -15,3 +15,4 @@ Javier G. Montoya S. | [@jgmontoya](https://github.com/jgmontoya) | jgmontoya@uc
 Frank Fu | [@ThatFrankGuy](https://github.com/ThatFrankGuy) | lanke_fu@outlook.com
 . | [@Chokomancarr](https://github.com/Chokomancarr) | puakai2010@gmail.com
 Yulu Pan | [@pandaman64](https://github.com/pandaman64) | pandaman64@gmail.com
+. | [@bearsan](https://github.com/bearsan) | bearsanxw@gmail.com
