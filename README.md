@@ -12,7 +12,7 @@ Name | Github | Email
 -----|--------|-------
 Corentin Pouget | [@Dwinlight](https://github.com/Dwinlight) | corentinpouget15@gmail.com
 Javier G. Montoya S. | [@jgmontoya](https://github.com/jgmontoya) | jgmontoya@uc.cl
-Frank Fu | [@ThatFrankGuy](https://github.com/ThatFrankGuy) | lanke_fu@outlook.com
+Lanke Fu | [@ThatFrankGuy](https://github.com/ThatFrankGuy) | lanke_fu@outlook.com
 Pua Kai | [@Chokomancarr](https://github.com/Chokomancarr) | puakai2010@gmail.com
 Yulu Pan | [@pandaman64](https://github.com/pandaman64) | pandaman64@gmail.com
 Wei Xiao | [@bearsan](https://github.com/bearsan) | bearsanxw@gmail.com
