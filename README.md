@@ -19,9 +19,9 @@ Wei Xiao | [@bearsan](https://github.com/bearsan) | bearsanxw@gmail.com
 
 ## Topics
 
-### Best Classical Parameter Combination 
+### Best Classical Parameter Combination - Javier?
 
-### Multi-class Extension
+### Multi-class Extension - Frank
 One Against Rest
 
 All Pairs
@@ -30,10 +30,10 @@ Error Correcting Code
 
 
 ### Feature Maps
-First Order Expansion 
+First Order Expansion - Coco
 
-Second Order Expansion
+Second Order Expansion - Kai
 
-Pauli Expansion
+Pauli Expansion - Frank
 
-Pauli Z Expansion
+Pauli Z Expansion - Xiao Wei
