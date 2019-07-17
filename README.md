@@ -17,17 +17,23 @@ Pua Kai | [@Chokomancarr](https://github.com/Chokomancarr) | puakai2010@gmail.co
 Yulu Pan | [@pandaman64](https://github.com/pandaman64) | pandaman64@gmail.com
 Wei Xiao | [@bearsan](https://github.com/bearsan) | bearsanxw@gmail.com
 
-# Topics
+## Topics
 
-## Best Classical Parameter Combination 
+### Best Classical Parameter Combination 
 
-## Multi-class Extension
+### Multi-class Extension
 One Against Rest
+
 All Pairs
+
 Error Correcting Code
 
-## Feature Maps
+
+### Feature Maps
 First Order Expansion 
+
 Second Order Expansion
+
 Pauli Expansion
+
 Pauli Z Expansion
